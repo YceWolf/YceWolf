@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YceWolf
 - 👀 I’m interested in video games program 
-- 🌱 I’m currently learning C# and how use unity
+- 🌱 I’m currently learning Java
 - 📫 How to reach me, leclerclaurent27@outlook.fr
 
 <!---
